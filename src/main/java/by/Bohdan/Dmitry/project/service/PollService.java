@@ -20,8 +20,9 @@ public class PollService implements IPollService {
     private PollService() {
         this.artists.add("Ария");
         this.artists.add("Квин");
-        this.artists.add("Баста");
-        this.artists.add("Европа+");
+        this.artists.add("Металика");
+        this.artists.add("Киркоров");
+        this.artists.add("Vacio");
 
         this.genres.add("Поп");
         this.genres.add("Рок");
